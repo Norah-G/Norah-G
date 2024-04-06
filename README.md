@@ -4,19 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Norah's Portfolio</title>
-<style>
-body {
-  font-family: Arial, sans-serif;
-  background-color: #fce8ed; 
-  color: #333; 
-  padding: 20px;
-}
-
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-}
-</style>
 </head>
 <body>
 
