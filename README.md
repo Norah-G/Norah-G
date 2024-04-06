@@ -16,29 +16,6 @@ body {
   max-width: 800px;
   margin: 0 auto;
 }
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-h1 {
-  color: #ff69b4; /* Pink header color */
-}
-
-h3 {
-  color: #ff69b4; /* Pink header color */
-}
-
-.languages {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.languages img {
-  margin-right: 10px;
-  margin-bottom: 10px;
-}
 </style>
 </head>
 <body>
@@ -70,12 +47,7 @@ h3 {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> <!-- Added Jupyter Notebooks icon -->
-  </div>
-
-  <h3>Jupyter Notebooks:</h3>
-  <p>Add Jupyter Notebooks to showcase data analysis and visualization projects.</p>
-</div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> 
 
 </body>
 </html>
