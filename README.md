@@ -7,10 +7,6 @@
 </head>
 <body>
 
-<div align="center">
-  <img src="https://www.developer-tech.com/wp-content/uploads/sites/3/2023/01/visual-studio-code-vscode-development-coding-aqua-security-hacking.jpeg" width="300">
-</div>
-
 <div class="container">
   <h1 align="center">Hi, I'm Norah</h1>
   <h3 align="center">A highly skilled software developer with proficiency in various software development domains. Additionally, I bring a strong background in cybersecurity, coupled with a keen interest in AI and ML. Committed to excellence, I actively contribute to innovative projects that showcase my expertise in both software development and cybersecurity domains. Witness the culmination of my passion and dedication to advancing technology.</h3>
