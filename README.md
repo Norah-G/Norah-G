@@ -34,7 +34,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Norah-G)](https://github.com/Norah-G)
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Norah-G&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norah-G&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norah-G&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 </body>
 </html>
