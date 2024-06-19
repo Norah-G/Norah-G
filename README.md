@@ -33,6 +33,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> 
+    <img src="https://reactjs.org/logo-og.png" alt="React" width="40" height="40"/>
+<img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="MongoDB" width="40" height="40"/>
+
 
 ### GitHub Stats
 <p align="center">
