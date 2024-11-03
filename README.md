@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a skilled software developer with a strong foundation 
 
 ### 💻 Languages and Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -31,12 +31,6 @@ Welcome to my GitHub! I'm a skilled software developer with a strong foundation 
   <img src="https://github-readme-stats.vercel.app/api?username=Norah-G&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norah-G&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
----
-
-### 📈 GitHub Streak and Contribution Updates
-
-> _Note:_ If the streak or stats don’t update immediately, they may be affected by caching. You can force an update by appending `&cache_seconds=1800` to each URL if needed.
 
 ---
 
