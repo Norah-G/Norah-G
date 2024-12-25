@@ -13,9 +13,9 @@ Welcome, with a strong foundation in **cybersecurity** and a passion for **AI** 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Flutter_logo_2021.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/IoT_logo.svg" alt="IoT" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Artificial_intelligence_icon.svg" alt="Machine Learning" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Flutter_logo_2021.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/IoT_Logo.svg" alt="IoT" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Artificial_Intelligence_Icon.svg" alt="Machine Learning" width="40" height="40"/>
 </p>
 
 ---
