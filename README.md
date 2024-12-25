@@ -23,7 +23,6 @@ Welcome, with a strong foundation in **cybersecurity** and a passion for **AI** 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norah-G&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Norah-G&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norah-G&layout=compact&theme=radical" alt="Top Languages" />
