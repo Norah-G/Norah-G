@@ -1,13 +1,6 @@
-# Hey there, I'm Norah 👋
+# Hey there, I'm Norah 
 
-Welcome to my GitHub! I'm a skilled software developer with a strong foundation in **cybersecurity** and a passion for **AI** and **Machine Learning**. I thrive on building innovative solutions and exploring the latest technologies to make a meaningful impact.
-
----
-
-### 🌟 About Me
--  **Tech Enthusiast:** Focused on AI, ML, and cybersecurity.
--  **Professional Background:** Experienced in various software development domains.
--  **Mission:** Committed to advancing technology for a safe and productive community.
+Welcome, with a strong foundation in **cybersecurity** and a passion for **AI** and **Machine Learning**. I thrive on building innovative solutions and exploring the latest technologies to make a meaningful impact.
 
 ---
 
@@ -33,7 +26,4 @@ Welcome to my GitHub! I'm a skilled software developer with a strong foundation 
 </div>
 
 ---
-
-### 📬 Let's Connect!
-I'm always excited to connect with other tech enthusiasts and collaborators. Feel free to reach out if you have any projects, ideas, or just want to chat about tech!
 
