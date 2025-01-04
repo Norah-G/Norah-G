@@ -1,6 +1,6 @@
 # Hey there, I'm Norah
 
-Welcome, with a strong foundation in **cybersecurity** and a passion for **AI** and **Machine Learning**. I thrive on building innovative solutions and exploring the latest technologies to make a meaningful impact.
+Welcome, with a strong foundation in **AI** and **Machine Learning**. I thrive on building innovative solutions and exploring the latest technologies to make a meaningful impact.
 
 ---
 
